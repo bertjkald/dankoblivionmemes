@@ -2,30 +2,20 @@
 
 ## 1. Purpose
 
-A primary goal of Dankoblivionmemes is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
-
+A primary goal of Dankoblivionmemes is to make dank memes of oblivion, with the most varied and diverse Imperial Legion
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
 We invite all those who participate in Dankoblivionmemes to help us make Oblivion memes and cheese for everyone.
 
-## 2. Open Source Citizenship
+## 2. Imperial Legion
 
-A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+To Protecc and Serve
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
 ## 3. Expected Behavior
 
-The following behaviors are expected and requested of all community members:
-
-*   Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-*   Exercise consideration and respect in your speech and actions.
-*   Attempt collaboration before conflict.
-*   Refrain from demeaning, discriminatory, or harassing behavior and speech.
-*   Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-*   Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+Dank memes
 
 ## 4. Unacceptable Behavior
 
@@ -37,7 +27,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 *   Posting or threatening to post other people’s personally identifying information ("doxing").
 *   Personal insults related to disability.
 *   Inappropriate physical contact. You should have someone’s consent before touching them.
-*   Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+*   Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate "touching", groping, and unwelcomed sexual advances.
 *   Deliberate intimidation, stalking or following (online or in person).
 *   Advocating for, or encouraging, any of the above behavior.
 *   Sustained disruption of community events, including talks and presentations.
